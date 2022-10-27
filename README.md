@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently studying System Analisys and Development at Estacio 
-- 💻 I'm studying Fullstack Development with MCIO/TAKING
+- 💻 I'm also studying Fullstack Development with MCIO/TAKING
 - 📫 How to reach me: jucarlavf@gmail.com
 - 😄 Pronouns: she/her
 

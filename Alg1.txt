@@ -1,0 +1,15 @@
+{
+	
+	funcao inicio()
+	{
+		escreva(" O quadrado de um numero.\n")
+		inteiro quad,i
+		
+		para (i =0;i<5;i++){
+			escreva("\n Digite o ",i+1,"º numero: ")						
+			leia(quad)
+			escreva("\nO quadrado de ", quad, " é " ,quad*quad, ".")
+			
+		}
+	}
+}
